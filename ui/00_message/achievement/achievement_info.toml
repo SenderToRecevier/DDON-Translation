@@ -1,4 +1,4 @@
-﻿[[message]]
+[[message]]
 key = 'ACHIEVEMENT_INFO_450'
 old = 'クエスト「横たわる神」クリア'
 new = 'Clear quest "The Slumbering God"'
@@ -6735,6 +6735,7 @@ new = 'Clear quest "Demon Army Tank Catoblepas"'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2853'
 old = '「英霊眠りし道 ラスニテ山麓」のすべての力を授かる'
+new = ' "Path of Slumbering Heroes: Rathnite Foothills" Has Been Conquered'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2854'
 old = 'サブストーリー「王家を救いし料理番」のすべての使命をクリア'

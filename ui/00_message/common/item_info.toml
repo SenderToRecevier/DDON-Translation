@@ -1,4 +1,4 @@
-﻿[[item]]
+[[item]]
 id = 34
 old = '使用者の体力を回復する'
 new = "Recovers a portion of the user's health."
@@ -48397,12 +48397,20 @@ old = '''
 エピタフロードに眠る魂
 英霊眠りし道 フェルヤナ荒原の
 深部へ踏み入れるための力となる'''
+new = '''
+Souls rest on Epitaph Road,
+Path of Slumbering Heroes, Feryana's Wilderness,
+Grow powerful in order to benefit from wandering to close to the Depths'''
 [[item]]
 id = 18659
 old = '''
 エピタフロードに眠る魂
 メガドシスの記憶の
 深部へ踏み入れるための力となる'''
+new ='''
+Souls rest on Epitaph Road,
+Memory Of Megados,
+Grow powerful in order to benefit from wandering to close to the Depths'''
 [[item]]
 id = 18660
 old = '''

@@ -1,11 +1,11 @@
-﻿[[message]]
+[[message]]
 key = 'GREAT_PURPOSE_1'
 old = 'エリアミッション《魔軍戦車カトブレパス》を攻略せよ！'
 new = 'Clear Area Mission "Demon Army Tank Catoblepas"!'
 [[message]]
 key = 'GREAT_PURPOSE_2'
 old = 'エピタフロード《英霊眠りし道 ラスニテ山麓》を攻略せよ！'
-new = 'Clear the Epitaph Road "英霊眠りし道 ラスニテ山麓"!'
+new = 'Clear the Epitaph Road "Path of Slumbering Heroes: Rathnite Foothills"!'
 [[message]]
 key = 'GREAT_PURPOSE_3'
 old = 'サブストーリー《王家を救いし料理番》を支援せよ！'

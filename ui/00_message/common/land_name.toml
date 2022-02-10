@@ -1,4 +1,4 @@
-﻿default_format = {proper = true}
+default_format = {proper = true}
 [[message]]
 key = 'LAND_NAME_1'
 old = 'レスタニア'
@@ -18,7 +18,7 @@ new = 'Acre Selund'
 [[message]]
 key = 'LAND_NAME_5'
 old = '英霊眠りし道'
-new = 'Heroic Spirit Sleeping Path'
+new = 'Path of Slumbering Heroes'
 [message.format]
 proper = false
 [[message]]

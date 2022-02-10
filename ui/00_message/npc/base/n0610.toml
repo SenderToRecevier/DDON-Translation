@@ -1,4 +1,4 @@
-﻿[[message]]
+[[message]]
 old = '''
 覚者さま、こちらはフェルヤナ地方の
 《英霊眠りし道》です'''
@@ -50,7 +50,7 @@ old = '''
 装備品をご確認の上で進まれてはいかがでしょう？'''
 [[message]]
 old = '《英霊眠りし道》に入る'
-new = 'Enter "Heroic Spirit Sleeping Path"'
+new = 'Enter "Path of Slumbering Heroes"'
 [[message]]
 old = '開拓状況確認'
 new = 'Check Reclamation Status'
@@ -83,7 +83,7 @@ old = '''
 装備品をご確認の上で進まれてはいかがでしょう？'''
 [[message]]
 old = '《英霊眠りし道》に入る'
-new = 'Enter "Heroic Spirit Sleeping Path"'
+new = 'Enter "Path of Slumbering Heroes"'
 [[message]]
 old = '開拓状況確認'
 new = 'Check Reclamation Status'

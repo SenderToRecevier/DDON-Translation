@@ -1,4 +1,4 @@
-﻿default_format = {proper = false}
+default_format = {proper = false}
 [[message]]
 key = 'STAGE_NAME_1'
 old = 'レスタニア'
@@ -1712,39 +1712,39 @@ old = '[イベント]ED用黒のエフェクト部屋'
 [[message]]
 key = 'STAGE_NAME_549'
 old = '英霊眠りし道 ラスニテ山麓'
-new = 'Heroic Spirit Sleeping Path: Rathnite Foothills'
+new = 'Path of Slumbering Heroes: Rathnite Foothills'
 [[message]]
 key = 'STAGE_NAME_550'
 old = '英霊眠りし道 祠'
-new = 'Heroic Spirit Sleeping Path: Shrine'
+new = 'Path of Slumbering Heroes: Shrine'
 [[message]]
 key = 'STAGE_NAME_551'
 old = '英霊眠りし道 洞窟'
-new = 'Heroic Spirit Sleeping Path: Cave'
+new = 'Path of Slumbering Heroes: Cave'
 [[message]]
 key = 'STAGE_NAME_552'
 old = '英霊眠りし道 遺跡'
-new = 'Heroic Spirit Sleeping Path Ruins'
+new = 'Path of Slumbering Heroes Ruins'
 [[message]]
 key = 'STAGE_NAME_553'
 old = '英霊眠りし道 水路'
-new = 'Heroic Spirit Sleeping Path Waterway'
+new = 'Path of Slumbering Heroes Waterway'
 [[message]]
 key = 'STAGE_NAME_554'
 old = '英霊眠りし道 井戸'
-new = 'Heroic Spirit Sleeping Path Well'
+new = 'Path of Slumbering Heroes Well'
 [[message]]
 key = 'STAGE_NAME_555'
 old = '英霊眠りし道 墓所'
-new = 'Heroic Spirit Sleeping Path Tomb'
+new = 'Path of Slumbering Heroes Tomb'
 [[message]]
 key = 'STAGE_NAME_556'
 old = '英霊眠りし道 遺跡 深層'
-new = 'Heroic Spirit Sleeping Path Ruins: Deepest Level'
+new = 'Path of Slumbering Heroes Ruins: Deepest Level'
 [[message]]
 key = 'STAGE_NAME_557'
 old = '英霊眠りし道 フェルヤナ荒原'
-new = 'Heroic Spirit Sleeping Path: Feryana Wilderness'
+new = 'Path of Slumbering Heroes: Feryana Wilderness'
 [[message]]
 key = 'STAGE_NAME_558'
 old = '旧英霊廟'

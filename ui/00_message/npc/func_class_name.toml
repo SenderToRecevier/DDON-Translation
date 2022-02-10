@@ -1,4 +1,4 @@
-﻿[[message]]
+[[message]]
 key = 'FUNC_CLASS_NAME_3'
 old = 'よろず屋'
 new = 'General Shop'
@@ -246,7 +246,7 @@ new = 'Substory Log'
 [[message]]
 key = 'FUNC_CLASS_NAME_67'
 old = '英霊眠りし道'
-new = 'Heroic Spirit Sleeping Path'
+new = 'Path of Slumbering Heroes'
 [[message]]
 key = 'FUNC_CLASS_NAME_68'
 old = '魂を捧げる'

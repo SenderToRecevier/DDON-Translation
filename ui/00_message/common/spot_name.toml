@@ -1,4 +1,4 @@
-﻿default_format = {proper = false}
+default_format = {proper = false}
 [[message]]
 key = 'SPOT_NAME_450'
 old = '白竜神殿レーゼ'
@@ -2438,11 +2438,11 @@ new = 'North Rathnite Foothills'
 [[message]]
 key = 'SPOT_NAME_1108'
 old = '英霊眠りし道　ラスニテ山麓'
-new = 'Heroic Spirit Sleeping Path: Rathnite Foothills'
+new = 'Path of Slumbering Heroes: Rathnite Foothills'
 [[message]]
 key = 'SPOT_NAME_1109'
 old = '英霊眠りし道　フェルヤナ荒原'
-new = 'Heroic Spirit Sleeping Path: Feryana Wilderness'
+new = 'Path of Slumbering Heroes: Feryana Wilderness'
 [[message]]
 key = 'SPOT_NAME_1110'
 old = 'メガドシスの記憶'
@@ -2571,111 +2571,111 @@ new = 'West Feryana Wilderness'
 [[message]]
 key = 'SPOT_NAME_1141'
 old = '英霊眠りし道 祠 通路'
-new = 'Heroic Spirit Sleeping Path Shrine: Passage'
+new = 'Path of Slumbering Heroes Shrine: Passage'
 [[message]]
 key = 'SPOT_NAME_1142'
 old = '英霊眠りし道 祠 深層'
-new = 'Heroic Spirit Sleeping Path Shrine: Deepest Level'
+new = 'Path of Slumbering Heroes Shrine: Deepest Level'
 [[message]]
 key = 'SPOT_NAME_1143'
 old = '英霊眠りし道 祠 第一の間'
-new = 'Heroic Spirit Sleeping Path Shrine: First Space'
+new = 'Path of Slumbering Heroes Shrine: First Space'
 [[message]]
 key = 'SPOT_NAME_1144'
 old = '英霊眠りし道 祠 第二の間'
-new = 'Heroic Spirit Sleeping Path Shrine: Second Space'
+new = 'Path of Slumbering Heroes Shrine: Second Space'
 [[message]]
 key = 'SPOT_NAME_1145'
 old = '英霊眠りし道 祠 第三の間'
-new = 'Heroic Spirit Sleeping Path Shrine: Third Space'
+new = 'Path of Slumbering Heroes Shrine: Third Space'
 [[message]]
 key = 'SPOT_NAME_1146'
 old = '英霊眠りし道 祠 第四の間'
-new = 'Heroic Spirit Sleeping Path Shrine: Fourth Space'
+new = 'Path of Slumbering Heroes Shrine: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1147'
 old = '英霊眠りし道 洞窟 通路'
-new = 'Heroic Spirit Sleeping Path Cave: Passage'
+new = 'Path of Slumbering Heroes Cave: Passage'
 [[message]]
 key = 'SPOT_NAME_1148'
 old = '英霊眠りし道 洞窟 第一の間'
-new = 'Heroic Spirit Sleeping Path Cave: First Space'
+new = 'Path of Slumbering Heroes Cave: First Space'
 [[message]]
 key = 'SPOT_NAME_1149'
 old = '英霊眠りし道 洞窟 第二の間'
-new = 'Heroic Spirit Sleeping Path Cave: Second Space'
+new = 'Path of Slumbering Heroes Cave: Second Space'
 [[message]]
 key = 'SPOT_NAME_1150'
 old = '英霊眠りし道 洞窟 第三の間'
-new = 'Heroic Spirit Sleeping Path Cave: Third Space'
+new = 'Path of Slumbering Heroes Cave: Third Space'
 [[message]]
 key = 'SPOT_NAME_1151'
 old = '英霊眠りし道 洞窟 第四の間'
-new = 'Heroic Spirit Sleeping Path Cave: Fourth Space'
+new = 'Path of Slumbering Heroes Cave: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1152'
 old = '英霊眠りし道 洞窟 深層'
-new = 'Heroic Spirit Sleeping Path Cave: Deepest Level'
+new = 'Path of Slumbering Heroes Cave: Deepest Level'
 [[message]]
 key = 'SPOT_NAME_1153'
 old = '英霊眠りし道 洞窟 深層 第一の間'
-new = 'Heroic Spirit Sleeping Path Cave Deepest Level: First Space'
+new = 'Path of Slumbering Heroes Cave Deepest Level: First Space'
 [[message]]
 key = 'SPOT_NAME_1154'
 old = '英霊眠りし道 洞窟 深層 第二の間'
-new = 'Heroic Spirit Sleeping Path Cave Deepest Level: Second Space'
+new = 'Path of Slumbering Heroes Cave Deepest Level: Second Space'
 [[message]]
 key = 'SPOT_NAME_1155'
 old = '英霊眠りし道 洞窟 深層 第三の間'
-new = 'Heroic Spirit Sleeping Path Cave Deepest Level: Third Space'
+new = 'Path of Slumbering Heroes Cave Deepest Level: Third Space'
 [[message]]
 key = 'SPOT_NAME_1156'
 old = '英霊眠りし道 洞窟 深層 第四の間'
-new = 'Heroic Spirit Sleeping Path Cave Deepest Level: Fourth Space'
+new = 'Path of Slumbering Heroes Cave Deepest Level: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1157'
 old = '英霊眠りし道 水路 脇道'
-new = 'Heroic Spirit Sleeping Path Waterway: Byway'
+new = 'Path of Slumbering Heroes Waterway: Byway'
 [[message]]
 key = 'SPOT_NAME_1158'
 old = '英霊眠りし道 水路 第一の間'
-new = 'Heroic Spirit Sleeping Path Waterway: First Space'
+new = 'Path of Slumbering Heroes Waterway: First Space'
 [[message]]
 key = 'SPOT_NAME_1159'
 old = '英霊眠りし道 水路 第二の間'
-new = 'Heroic Spirit Sleeping Path Waterway: Second Space'
+new = 'Path of Slumbering Heroes Waterway: Second Space'
 [[message]]
 key = 'SPOT_NAME_1160'
 old = '英霊眠りし道 水路 第三の間'
-new = 'Heroic Spirit Sleeping Path Waterway: Third Space'
+new = 'Path of Slumbering Heroes Waterway: Third Space'
 [[message]]
 key = 'SPOT_NAME_1161'
 old = '英霊眠りし道 水路 第四の間'
-new = 'Heroic Spirit Sleeping Path Waterway: Fourth Space'
+new = 'Path of Slumbering Heroes Waterway: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1162'
 old = '英霊眠りし道 洞窟 深層 脇道'
-new = 'Heroic Spirit Sleeping Path Cave Deepest Level: Byway'
+new = 'Path of Slumbering Heroes Cave Deepest Level: Byway'
 [[message]]
 key = 'SPOT_NAME_1163'
 old = '英霊眠りし道 祠 石像の間'
-new = 'Heroic Spirit Sleeping Path Shrine: Stone Statue Space'
+new = 'Path of Slumbering Heroes Shrine: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1164'
 old = '英霊眠りし道 洞窟 石像の間'
-new = 'Heroic Spirit Sleeping Path Cave: Stone Statue Space'
+new = 'Path of Slumbering Heroes Cave: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1165'
 old = '英霊眠りし道 洞窟 深層 石像の間'
-new = 'Heroic Spirit Sleeping Path Cave Deepest Level: Stone Statue Space'
+new = 'Path of Slumbering Heroes Cave Deepest Level: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1166'
 old = '英霊眠りし道 水路 石像の間'
-new = 'Heroic Spirit Sleeping Path Waterway: Stone Statue Space'
+new = 'Path of Slumbering Heroes Waterway: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1167'
 old = '英霊眠りし道 水路 武神の間'
-new = 'Heroic Spirit Sleeping Path Waterway: War God Space'
+new = 'Path of Slumbering Heroes Waterway: War God Space'
 [[message]]
 key = 'SPOT_NAME_1168'
 old = 'エリ警備塔'
@@ -2695,147 +2695,147 @@ proper = true
 [[message]]
 key = 'SPOT_NAME_1171'
 old = '英霊眠りし道 遺跡'
-new = 'Heroic Spirit Sleeping Path Ruins'
+new = 'Path of Slumbering Heroes Ruins'
 [[message]]
 key = 'SPOT_NAME_1172'
 old = '英霊眠りし道 遺跡 通路'
-new = 'Heroic Spirit Sleeping Path Ruins: Passage'
+new = 'Path of Slumbering Heroes Ruins: Passage'
 [[message]]
 key = 'SPOT_NAME_1173'
 old = '英霊眠りし道 遺跡 螺旋回廊'
-new = 'Heroic Spirit Sleeping Path Ruins: Spiral Corridor'
+new = 'Path of Slumbering Heroes Ruins: Spiral Corridor'
 [[message]]
 key = 'SPOT_NAME_1174'
 old = '英霊眠りし道 遺跡 第一の間'
-new = 'Heroic Spirit Sleeping Path Ruins: First Space'
+new = 'Path of Slumbering Heroes Ruins: First Space'
 [[message]]
 key = 'SPOT_NAME_1175'
 old = '英霊眠りし道 遺跡 第二の間'
-new = 'Heroic Spirit Sleeping Path Ruins: Second Space'
+new = 'Path of Slumbering Heroes Ruins: Second Space'
 [[message]]
 key = 'SPOT_NAME_1176'
 old = '英霊眠りし道 遺跡 第三の間'
-new = 'Heroic Spirit Sleeping Path Ruins: Third Space'
+new = 'Path of Slumbering Heroes Ruins: Third Space'
 [[message]]
 key = 'SPOT_NAME_1177'
 old = '英霊眠りし道 遺跡 第四の間'
-new = 'Heroic Spirit Sleeping Path Ruins: Fourth Space'
+new = 'Path of Slumbering Heroes Ruins: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1178'
 old = '英霊眠りし道 遺跡 石像の間'
-new = 'Heroic Spirit Sleeping Path Ruins: Stone Statue Space'
+new = 'Path of Slumbering Heroes Ruins: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1179'
 old = '英霊眠りし道 井戸 入口'
-new = 'Heroic Spirit Sleeping Path Well: Entrance'
+new = 'Path of Slumbering Heroes Well: Entrance'
 [[message]]
 key = 'SPOT_NAME_1180'
 old = '英霊眠りし道 井戸'
-new = 'Heroic Spirit Sleeping Path Well'
+new = 'Path of Slumbering Heroes Well'
 [[message]]
 key = 'SPOT_NAME_1181'
 old = '英霊眠りし道 井戸 通路'
-new = 'Heroic Spirit Sleeping Path Well: Passage'
+new = 'Path of Slumbering Heroes Well: Passage'
 [[message]]
 key = 'SPOT_NAME_1182'
 old = '英霊眠りし道 井戸 深部'
-new = 'Heroic Spirit Sleeping Path Well Depths'
+new = 'Path of Slumbering Heroes Well Depths'
 [[message]]
 key = 'SPOT_NAME_1183'
 old = '英霊眠りし道 井戸 第一の間'
-new = 'Heroic Spirit Sleeping Path Well: First Space'
+new = 'Path of Slumbering Heroes Well: First Space'
 [[message]]
 key = 'SPOT_NAME_1184'
 old = '英霊眠りし道 井戸 第二の間'
-new = 'Heroic Spirit Sleeping Path Well: Second Space'
+new = 'Path of Slumbering Heroes Well: Second Space'
 [[message]]
 key = 'SPOT_NAME_1185'
 old = '英霊眠りし道 井戸 第三の間'
-new = 'Heroic Spirit Sleeping Path Well: Third Space'
+new = 'Path of Slumbering Heroes Well: Third Space'
 [[message]]
 key = 'SPOT_NAME_1186'
 old = '英霊眠りし道 井戸 第四の間'
-new = 'Heroic Spirit Sleeping Path Well: Fourth Space'
+new = 'Path of Slumbering Heroes Well: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1187'
 old = '英霊眠りし道 井戸 石像の間'
-new = 'Heroic Spirit Sleeping Path Well: Stone Statue Space'
+new = 'Path of Slumbering Heroes Well: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1188'
 old = '英霊眠りし道 墓所'
-new = 'Heroic Spirit Sleeping Path Tomb'
+new = 'Path of Slumbering Heroes Tomb'
 [[message]]
 key = 'SPOT_NAME_1189'
 old = '英霊眠りし道 墓所 通路'
-new = 'Heroic Spirit Sleeping Path Tomb: Passage'
+new = 'Path of Slumbering Heroes Tomb: Passage'
 [[message]]
 key = 'SPOT_NAME_1190'
 old = '英霊眠りし道 墓所 広間'
-new = 'Heroic Spirit Sleeping Path Tomb: Hall'
+new = 'Path of Slumbering Heroes Tomb: Hall'
 [[message]]
 key = 'SPOT_NAME_1191'
 old = '英霊眠りし道 墓所 第一の間'
-new = 'Heroic Spirit Sleeping Path Tomb: First Space'
+new = 'Path of Slumbering Heroes Tomb: First Space'
 [[message]]
 key = 'SPOT_NAME_1192'
 old = '英霊眠りし道 墓所 第二の間'
-new = 'Heroic Spirit Sleeping Path Tomb: Second Space'
+new = 'Path of Slumbering Heroes Tomb: Second Space'
 [[message]]
 key = 'SPOT_NAME_1193'
 old = '英霊眠りし道 墓所 第三の間'
-new = 'Heroic Spirit Sleeping Path Tomb: Third Space'
+new = 'Path of Slumbering Heroes Tomb: Third Space'
 [[message]]
 key = 'SPOT_NAME_1194'
 old = '英霊眠りし道 墓所 第四の間'
-new = 'Heroic Spirit Sleeping Path Tomb: Fourth Space'
+new = 'Path of Slumbering Heroes Tomb: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1195'
 old = '英霊眠りし道 墓所 石像の間'
-new = 'Heroic Spirit Sleeping Path Tomb: Stone Statue Space'
+new = 'Path of Slumbering Heroes Tomb: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1196'
 old = '英霊眠りし道 遺跡 深層'
-new = 'Heroic Spirit Sleeping Path Ruins: Deepest Level'
+new = 'Path of Slumbering Heroes Ruins: Deepest Level'
 [[message]]
 key = 'SPOT_NAME_1197'
 old = '英霊眠りし道 遺跡 深層 広間'
-new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Hall'
+new = 'Path of Slumbering Heroes Ruins Deepest Level: Hall'
 [[message]]
 key = 'SPOT_NAME_1198'
 old = '英霊眠りし道 遺跡 深層 通路'
-new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Passage'
+new = 'Path of Slumbering Heroes Ruins Deepest Level: Passage'
 [[message]]
 key = 'SPOT_NAME_1199'
 old = '英霊眠りし道 遺跡 深層 隠し通路'
-new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Hidden Passage'
+new = 'Path of Slumbering Heroes Ruins Deepest Level: Hidden Passage'
 [[message]]
 key = 'SPOT_NAME_1200'
 old = '英霊眠りし道 遺跡 深層 大広間'
-new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Great Hall'
+new = 'Path of Slumbering Heroes Ruins Deepest Level: Great Hall'
 [[message]]
 key = 'SPOT_NAME_1201'
 old = '英霊眠りし道 遺跡 深層 第一の間'
-new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: First Space'
+new = 'Path of Slumbering Heroes Ruins Deepest Level: First Space'
 [[message]]
 key = 'SPOT_NAME_1202'
 old = '英霊眠りし道 遺跡 深層 第二の間'
-new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Second Space'
+new = 'Path of Slumbering Heroes Ruins Deepest Level: Second Space'
 [[message]]
 key = 'SPOT_NAME_1203'
 old = '英霊眠りし道 遺跡 深層 第三の間'
-new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Third Space'
+new = 'Path of Slumbering Heroes Ruins Deepest Level: Third Space'
 [[message]]
 key = 'SPOT_NAME_1204'
 old = '英霊眠りし道 遺跡 深層 第四の間'
-new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Fourth Space'
+new = 'Path of Slumbering Heroes Ruins Deepest Level: Fourth Space'
 [[message]]
 key = 'SPOT_NAME_1205'
 old = '英霊眠りし道 遺跡 深層 石像の間'
-new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: Stone Statue Space'
+new = 'Path of Slumbering Heroes Ruins Deepest Level: Stone Statue Space'
 [[message]]
 key = 'SPOT_NAME_1207'
 old = '英霊眠りし道 遺跡 深層 武神の間'
-new = 'Heroic Spirit Sleeping Path Ruins Deepest Level: War God Space'
+new = 'Path of Slumbering Heroes Ruins Deepest Level: War God Space'
 [[message]]
 key = 'SPOT_NAME_1209'
 old = '展望城 中庭'
