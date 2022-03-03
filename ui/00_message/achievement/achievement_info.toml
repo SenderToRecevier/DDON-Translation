@@ -6735,7 +6735,7 @@ new = 'Clear quest "Demon Army Tank Catoblepas"'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2853'
 old = '「英霊眠りし道 ラスニテ山麓」のすべての力を授かる'
-new = ' "Path of Slumbering Heroes: Rathnite Foothills" Has Been Conquered'
+new = ' "Path of Slumbering Heroes: Rathnite Foothills" has been conquered!'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2854'
 old = 'サブストーリー「王家を救いし料理番」のすべての使命をクリア'
@@ -6743,6 +6743,7 @@ new = 'Clear all missions for substory "Save the Royal Family Cook"'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2855'
 old = 'ウォーミッション「ダクレイム砦奪還戦」で獣の将を討伐'
+new = 'Kill the Beast Commander in the "Dacreim Fortress Recapture Battle" War Mission.'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2856'
 old = 'クエスト「王家再興の褒章１」クリア'
@@ -6754,6 +6755,7 @@ new = 'Clear quest "Into the Ancient Darkness"'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2858'
 old = '「英霊眠りし道 フェルヤナ荒原」のすべての力を授かる'
+new = ' "Path Of Slumbering Heroes: Feryana Wilderness" has been conquered!'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2859'
 old = 'サブストーリー「奪還を指揮せし異才者」のすべての使命をクリア'
@@ -6761,6 +6763,7 @@ new = 'Clear all missions for substory "Rescue the Genius Commander"'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2860'
 old = 'ウォーミッション「ジフール砦攻略戦」で骸の将を討伐'
+new = 'Kill the Necro Master in the "Jifule Fortress Capture Battle" War Mission.'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2861'
 old = 'クエスト「王家再興の褒章２」クリア'
@@ -6772,6 +6775,7 @@ new = 'Clear quest "力に呑まれし王者"'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2863'
 old = '「英霊眠りし道 メガドシスの記憶」のすべての力を授かる'
+new = ' "Path Of Slumbering Heroes: Memory of Megadosys" has been conquered!'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2864'
 old = 'サブストーリー「暗部を暴きし暗躍者」のすべての使命をクリア'
@@ -6779,6 +6783,7 @@ new = 'Clear all missions for substory "Expose the Dark Side to the One Operatin
 [[message]]
 key = 'ACHIEVEMENT_INFO_2865'
 old = 'ウォーミッション「霧の森の死闘」で闇の将を討伐'
+new = 'Kill the Shadow Master in the "The Deathly Battle of the Forest of Mist" War Mission.'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2866'
 old = 'クエスト「王家再興の褒章３」クリア'
@@ -6790,9 +6795,11 @@ new = 'Clear quest "彼方より堕ち呼ばれし魔道"'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2868'
 old = '「英霊眠りし道 ウルテカの記憶」のすべての力を授かる'
+new = ' "Path Of Slumbering Heroes: Memory of Urteca" has been conquered!'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2870'
 old = 'ウォーミッション「蘇りし絶望の炎」で悪しき竜を討伐'
+new = 'Kill the Evil Dragon in the "Resurrection of the Flame of Despair" War Mission.'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2871'
 old = 'クエスト「王家再興の褒章４」クリア'
